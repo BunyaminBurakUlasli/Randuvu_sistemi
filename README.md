@@ -4,10 +4,9 @@
 **Proje konusu:** Hastane poliklinikleri için randevu kayıt ve takip sistemi
 **Çalışma biçimi:** Bireysel
 **Teknoloji:** PHP 8 + HTML5 + CSS3 + JavaScript (isteğe bağlı iyileştirmeler)
-**Veri saklama:** PHP dizileri + `$_SESSION` (MySQL bu sürümde zorunlu değildir)
-**Tasarım:** Yalnızca açık tema; teal–mavi sağlık paleti
+**Veri saklama:** PHP dizileri + `$_SESSION` 
 
----
+
 
 ## 1. Projenin Adı ve Amacı
 
@@ -289,7 +288,7 @@ Planlanan geliştirmeler:
 ### 9.1 Kullanılan yapay zekâ araçları
 
 - **OpenCode masaüstü uygulamasındaki yapay zekâ kodlama ajanı** (PHP, HTML, CSS ve JavaScript kodunun üretilmesi, düzenlenmesi ve test edilmesi).
-- **ChatGPT** (proje konusu ve özellik listesi üzerine fikir alma, hata mesajları ve metin taslakları).
+- **Gemini** (proje konusu ve özellik listesi üzerine fikir alma, hata mesajları ve metin taslakları).
 
 ### 9.2 Kullanım amaçları
 
@@ -334,11 +333,6 @@ fonksiyonları planla, sonra kodu üret.
 - Ortaya çıkan kodları satır satır inceleyerek fonksiyonların ve oturum yapısının nasıl çalıştığını öğrendim.
 - README ve ekran görüntülerini teslim formatına göre düzenledim.
 
-> **Öğrenci notu:** Bu bölümü kendi katkılarınıza göre güncelleyin. Ödev duyurusu
-> gereği kodu açıklayabilmeli ve istendiğinde proje üzerinde küçük değişiklikler
-> yapabilmelisiniz.
-
----
 
 ## 10. Ekran Görüntüleri
 
@@ -368,8 +362,8 @@ Teslim için en az üç ekran görüntüsü `ekran-goruntuleri/` klasörüne ekl
 - [x] En az bir `foreach` döngüsü ve koşul yapıları var
 - [x] Koyu tema ve tema düğmesi tamamen kaldırıldı
 - [x] Yapay zekâ kullanımı, amaçları, örnek istem ve öğrenci katkısı belirtildi
-- [ ] ZIP dosyası `OgrenciNo_Ad_Soyad_PHP_Proje.zip` adıyla oluşturuldu
-- [ ] Proje Microsoft Teams üzerindeki ödev alanına yüklendi
+- [x] ZIP dosyası `OgrenciNo_Ad_Soyad_PHP_Proje.zip` adıyla oluşturuldu
+- [x] Proje Microsoft Teams üzerindeki ödev alanına yüklendi
 - [ ] Kod açıklaması ve canlı gösterim için hazırlık yapıldı
 
 ---
@@ -390,6 +384,6 @@ Teslim için en az üç ekran görüntüsü `ekran-goruntuleri/` klasörüne ekl
 
 ---
 
-**Hazırlayan:** `[Ad Soyad]`
-**Öğrenci No:** `[Öğrenci No]`
+**Hazırlayan:** Bünyamin Burak Ulaşlı 
+**Öğrenci No:** 254309049
 **Teslim tarihi:** 8 Kasım 2026
